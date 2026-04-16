@@ -1,0 +1,12 @@
+{
+  "export_job_id": "b707a0ae-81a9-4896-8a96-ca3e7c87276d",
+  "id_short": 697607,
+  "published_at": "2026-04-16T07:52:19Z",
+  "repo_name": "top-10-active-restaurant-review-whales-in-chicago-naperville-elgin-metro-area-il-i-sample-697607",
+  "sample_asset_name": "beamstation_697607_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/697607/beamstation_697607_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
+  "sample_records": 98,
+  "sample_sha256": "d3e351f240523899bbaa9895445758ff7b3164c4e4545ef22f07071cb21cb4ac",
+  "sample_size_bytes": 387787,
+  "total_records": 759
+}
