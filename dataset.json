@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 10% of their local market for proven foot traffic and review volume within the last 30 days and a market scope of 10km. \n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 10% Active Restaurant Review Whales in Chicago-Naperville-Elgin Metro Area, IL-IN, US",
-  "export_job_id": "b707a0ae-81a9-4896-8a96-ca3e7c87276d",
+  "export_job_id": "c561dcb3-de7f-4d30-8ece-f374ab06060f",
   "github_org": "Beamstation-Datasets",
   "id_short": 697607,
   "location_name": "Chicago-Naperville-Elgin, IL-IN",
   "location_type": "metro",
   "repo_name": "top-10-active-restaurant-review-whales-in-chicago-naperville-elgin-metro-area-il-i-sample-697607",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/697607/beamstation_697607_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
-  "sample_pct": 12.91,
+  "sample_pct": 9.95,
   "sample_records": 98,
   "sample_sha256": "d3e351f240523899bbaa9895445758ff7b3164c4e4545ef22f07071cb21cb4ac",
   "sample_size_bytes": 387787,
-  "total_records": 759,
-  "updated_at": "2026-04-01T00:35:28.611747+00:00"
+  "total_records": 985,
+  "updated_at": "2026-04-15T02:14:13.756079+00:00"
 }
