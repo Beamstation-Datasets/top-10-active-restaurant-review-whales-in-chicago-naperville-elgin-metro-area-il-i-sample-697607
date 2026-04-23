@@ -1,6 +1,6 @@
 # Top 10% Active Restaurant Review Whales in Chicago-Naperville-Elgin Metro Area, IL-IN, US
 
-> Free BeamStation sample export with 98 rows and masked direct-contact fields.
+> Free BeamStation sample export with 38 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `697607` |
 | Location | Chicago-Naperville-Elgin, IL-IN |
 | Category | Restaurants |
-| Full dataset size | 985 records |
-| Free sample size | 98 records (9.95%) |
-| Last export | 2026-04-15T02:14:13.756079+00:00 |
+| Full dataset size | 381 records |
+| Free sample size | 38 records (9.97%) |
+| Last export | 2026-04-22T07:05:38.975467+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-10-active-restaurant-review-whales-in-chicago-naperville-elgin-metro-area-il-i-sample-697607/releases/download/sample-latest/beamstation_697607_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
